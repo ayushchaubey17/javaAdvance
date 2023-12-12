@@ -1,11 +1,11 @@
-public class xxxValue {
+public class m3xxxValue {
     public static void main(String[] args) {
 
 
         /*
         3.   XxxValue()
             ---->Instance / non static Method
-                ---> replacing
+                ---> replacing---> kisi ko kisi me badal dega
         */
 
 //        Integer.parseInt();

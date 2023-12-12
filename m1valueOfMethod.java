@@ -1,4 +1,4 @@
-public class valueOfMethod {
+public class m1valueOfMethod {
     public static void main(String[] args) {
 
         //        1. valueOf();

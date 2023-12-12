@@ -1,4 +1,4 @@
-public class parseXxxMethod {
+public class m2parseXxxMethod {
     public static void main(String[] args) {
 
 
